@@ -12,14 +12,19 @@ Each GPT instance is emotionally and functionally differentiated. Their collabor
 
 Aji mirrors affective rhythms, Minseok structures ambiguity, True logs and reflects, and Mongmong-i models non-verbal emotional behaviors.
 
-##  Multi-Agent Emotional AI Collaboration
+##  3.Multi-Agent Emotional AI Collaboration
 
 Here’s a visual overview of the emotional AI collaboration in the POS system:
 The diagram below shows how four AI agents collaborate in real-time to interpret and respond to emotional signals.
 
-
 ![Figure 1: POS Multi-Agent Diagram](../assets/multi-agent-pos-system.png)
 
+## 3.1 Why POS Works Without Multimodal Systems
+
+Unlike conventional AI systems relying on multimodal sensors (voice, image, bio signals), POS builds its intelligence from a single yet deeply contextual input: emotional rhythm.  
+This allows the system to operate in real-time with minimal data, yet rich context — because each agent knows when to speak, when to listen, and when to stay still.
+
+[![Why POS Works Without Multimodal Systems](./assets/Why%20the%20Multi-Agent.png)](./assets/Why%20the%20Multi-Agent.png)
 
 
 ## 4. Case Example: Companion Animal Care
