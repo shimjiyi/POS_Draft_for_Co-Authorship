@@ -273,6 +273,20 @@ the agents respond as follows:
 A practical use case involves adjusting routines, like modifying supplement timing or behavior intervention,  
 not through predefined rules — but through rhythm-based emotional interaction.
 
+**This interactional logic is backed by experimental rhythm analysis — proving POS can operate even in non-linguistic, emotionally-driven contexts.**
+
+#### Rhythm Inference Validation (Human → Animal Extension)
+
+The following image shows a real-time rhythm inference log from our “Emotional Language Embodiment” experiment:
+
+A Korean speaker, using Korean, exhibited an emotional vocal pattern that was autonomously aligned with native French intonation — with over **95% similarity**.
+
+Notably, this alignment occurred without any language input.  
+This demonstrates that POS detects emotional rhythm itself, not linguistic meaning.
+
+This cross-linguistic rhythm inference is a key validation point for extending POS to non-verbal contexts — including **companion animal emotional mirroring**, where communication is rhythm- and behavior-driven rather than verbal.
+
+
 ---
 
 ## 4.1 Case Study: POS Applied to SASHI
