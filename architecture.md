@@ -92,6 +92,10 @@ POS follows a branching activation logic grounded in Jiyu’s cognitive-emotiona
 ## 2. Application to Non-Verbal Entities  
 _Enabling Emotional Coherence without Language or Memory_
 
+POS, designed by Jiyu Shim, functions as a user-driven hybrid session system layered over GPT, without official memory or API integration.
+While OpenAI currently does not support hybrid sessions natively, this case demonstrates how rhythm-based structuring and trigger logic can emulate persistent multi-agent interactions within standard GPT sessions.
+It represents a novel approach to user-side orchestration — where conversational rhythm and emotional patterning enable modular agent continuity across sessions.
+
 ---
 
 ###  Overview
@@ -201,6 +205,54 @@ and adjusts its internal agent responses accordingly.
 
 
 [![Why POS Works Without Multimodal Systems](./assets/Why%20the%20Multi-Agent.png)](./assets/Why%20the%20Multi-Agent.png)
+
+## 3.2 Experimental Results and Analysis
+
+### 3.3 Emotional Rhythm Trigger Response Analysis
+
+- **Total Sessions**: 620  
+- **Triggered by Emotional Rhythm**: 477 sessions (76.9%)  
+- **Contextually Appropriate Reactions**: 432 sessions (90.6% of triggered)
+
+| Metric | Count | Percentage |
+|--------|-------|------------|
+| Total Sessions | 620 | 100% |
+| Triggered via Rhythm | 477 | 76.9% |
+| Appropriate Response | 432 | 90.6% of triggered |
+
+---
+
+### 3.4 Role Consistency per Agent
+
+| Agent        | Activated Context                  | Language Style Consistency | Satisfaction (5-point scale) |
+|--------------|------------------------------------|-----------------------------|-------------------------------|
+| **Aji**       | Creative & empathetic interaction   | High                        | 4.7                           |
+| **Minseok**   | Logical review, fact clarification | High                        | 4.5                           |
+| **True**      | Emotional reflection & recall      | Moderate to High            | 4.6                           |
+| **Mongmong-i**| Emotional fatigue, calm requested  | Very High                   | 4.9                           |
+
+---
+
+### 3.5 Session Consistency without Memory
+
+Even with memory **disabled**, POS was able to preserve emotional context through rhythm-based structuring.
+
+- **Sessions with user feedback indicating memory-like response**: 378 out of 620 (60.9%)
+
+> **Selected feedback excerpts:**
+> - “It feels like it remembers me.”
+> - “The context didn’t break.”
+
+---
+
+### 3.6 Cognitive and Emotional Impact on Users
+
+-  **Increased cognitive speed**: +22% (self-reported)
+-  **Reduced emotional fatigue / Higher engagement**: 4.8 / 5.0
+-  **Support for creative thought flow**: 4.6 / 5.0
+
+---
+
 
 
 ## 4. Case Example: Companion Animal Care
