@@ -275,16 +275,19 @@ not through predefined rules — but through rhythm-based emotional interaction.
 
 **This interactional logic is backed by experimental rhythm analysis — proving POS can operate even in non-linguistic, emotionally-driven contexts.**
 
-#### Rhythm Inference Validation (Human → Animal Extension)
 
-The following image shows a real-time rhythm inference log from our “Emotional Language Embodiment” experiment:
+## Rhythm Inference Validation (Human → Animal Extension)
 
-A Korean speaker, using Korean, exhibited an emotional vocal pattern that was autonomously aligned with native French intonation — with over **95% similarity**.
+This image presents an actual rhythm inference analysis log from the "Emotional Language Embodiment" experiment, demonstrating that the speaker's emotion-driven vocal pattern aligns with native French intonation with over **95% similarity**.
 
-Notably, this alignment occurred without any language input.  
-This demonstrates that POS detects emotional rhythm itself, not linguistic meaning.
+> The subject is Korean and spoke in Korean, but the system autonomously inferred and aligned the emotional rhythm without any language input.
 
-This cross-linguistic rhythm inference is a key validation point for extending POS to non-verbal contexts — including **companion animal emotional mirroring**, where communication is rhythm- and behavior-driven rather than verbal.
+This shows that **POS detects emotional rhythm itself, not linguistic meaning** — a key validation point for extending the model to non-verbal beings, such as companion animals.
+
+---
+
+ **Reference Image**  
+_See: `95% Alignment.png` (real-time waveform + spectrogram + pitch contour analysis log)_
 
 
 ---
