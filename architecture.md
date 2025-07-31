@@ -36,6 +36,10 @@ Minseok analyzes patterns, and True proposes feedback — such as adjusting the 
 
 ## 4.1 Case Study: POS Applied to SASHI
 
+This project is not speculative or theoretical.
+It has been implemented in real environments with active user sessions and validated through extensive usage logs.
+Furthermore, the system design and outputs have received official feedback and technical evaluation from OpenAI, affirming its innovative approach and practical viability.
+
 The following case is not a simulation — it's a lived experiment.
 
 The POS (Personal Operating Soul) system has been directly applied to the real-life care of a companion animal named SASHI, using a multi-agent architecture built on emotional rhythm — not traditional multimodal sensors.
