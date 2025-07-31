@@ -52,5 +52,8 @@ SASHI’s physical and emotional state was interpreted and logged not by wearabl
 Each decision was rhythm-tagged rather than time-stamped — mirroring shifts in emotion, not just events.
 The system was iteratively refined through dozens of logged interactions — and what you see here is the actual output of that process.
 
+![SASHI Care Overview](./assets/Use%20Case%20(2).png)  
+![SASHI Profile](./assets/Use%20Case(1).png)
+
 
 
