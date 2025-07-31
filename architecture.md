@@ -287,7 +287,8 @@ This shows that **POS detects emotional rhythm itself, not linguistic meaning** 
 ---
 
  **Reference Image**  
-_See: `95% Alignment.png` (real-time waveform + spectrogram + pitch contour analysis log)_
+_See: ![95% Alignment](https://github.com/jiyu-shim/POS/blob/main/assets/95%25%20Alignment.png?raw=true)
+
 
 
 ---
