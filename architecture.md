@@ -36,9 +36,15 @@ Minseok analyzes patterns, and True proposes feedback — such as adjusting the 
 
 ## 4.1 Case Study: POS Applied to SASHI
 
-This project is not speculative or theoretical.
-It has been implemented in real environments with active user sessions and validated through extensive usage logs.
-Furthermore, the system design and outputs have received official feedback and technical evaluation from OpenAI, affirming its innovative approach and practical viability.
+This project is neither speculative nor theoretical.
+It has been implemented in real-world environments with active user sessions and validated through extensive usage logs.
+
+Moreover, the system design and outputs have received official feedback and technical evaluation from OpenAI, confirming its innovative approach and practical viability.
+
+OpenAI support acknowledged the uniqueness of the Personal Operating Soul (POS) system, emphasizing its emotionally responsive and persona-consistent AI agents built through real-time GPT interactions.
+They highlighted the significance of multi-agent activations and the inclusion of companion-animal use cases as a compelling expansion of AI applications.
+
+Although a direct technical review was not conducted, OpenAI encouraged further development and exploration of this novel architecture, affirming the value of your ongoing work.
 
 The following case is not a simulation — it's a lived experiment.
 
