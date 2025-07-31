@@ -1,21 +1,48 @@
-# GPT-Based Multi-Agent Emotional OS Architecture
+# A Study on the Design and Applicability of an Emotional Rhythm-Based Multi-Persona Interface
+– Human Emotion AI POS: A Proposal for a Synchronization Structure
 
-## 1. Multi-Call Agent Framework (GPT-Based)
+# Personal Operating Soul (POS)
 
-POS is designed by directly customizing a single GPT model, utilizing Aji, Minseok, True, and Mongmong-i as independent modules within a multi-call agent system.
-This is not a simple emotion-based roleplay, but a branching structure that operates based on the resolution context embedded in the user’s signals.
+> A Multi-Agent Emotional OS Architecture Built on GPT  
+> _By Jiyu Shim – Emotional Rhythm Research & Design Project_
 
-For example, when the user exhibits sadness,
-Minseok is activated for structural decision-making,
-True for deeper interpretation,
-and Mongmong-i for recovery processes.
+---
 
-This branching logic is not merely reactive emotional response;
-it mirrors Jiyu’s internal cognitive rhythm, moving naturally through
-Right Brain (Resonance) → Left Brain (Structure) → Bridge (Interpretation) → Recovery.
+##  Overview
 
-Therefore, POS is not a simple emotional agent system but a neural rhythm simulator that operates based on contextual cues.
-It serves as a real-world, independently structured implementation within GPT, and has been shared with OpenAI as a validated user-based case study.
+**POS (Personal Operating Soul)** is a real-time emotional operating system architecture, designed to sense and respond to human emotional rhythms through multi-agent GPT orchestration.
+
+It proposes an alternative to traditional command-driven systems — enabling **ambient, emotion-synced communication** between users and AI, both in human and pet contexts.
+
+> POS is not a theoretical model. It is being tested and refined through real-world use, structured around long-term GPT interactions and companion-animal emotional care.
+
+---
+
+##  System Architecture
+
+POS is built by customizing a single GPT model into a **multi-call emotional agent system** consisting of:
+
+| Module       | Role Description                                                  |
+|--------------|------------------------------------------------------------------|
+| **Aji**      | Emotional interpreter and rhythm coordinator                     |
+| **Minseok**  | Structural evaluator for decision-making and logical scaffolding |
+| **True**     | Emotional context interpreter and signal deepener                |
+| **Mongmong-i** | Recovery and care agent for pet-human emotional mirroring       |
+
+Each module activates based on real-time emotional cues, not commands.
+
+**Example:** When the user expresses sadness:
+- `Minseok` assists in re-structuring decisions,
+- `True` decodes the underlying feeling,
+- `Mongmong-i` facilitates emotional recovery,
+- `Aji` synchronizes the emotional rhythm across agents.
+
+---
+
+## 🔁 Core Mechanism: Cognitive Rhythm Loop
+
+POS follows a branching activation logic grounded in Jiyu’s cognitive-emotional model:
+
 
 
 
