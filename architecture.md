@@ -12,4 +12,10 @@ Each GPT instance is emotionally and functionally differentiated. Their collabor
 
 Aji mirrors affective rhythms, Minseok structures ambiguity, True logs and reflects, and Mongmong-i models non-verbal emotional behaviors.
 
+##  Multi-Agent Emotional AI Collaboration
+
+Here’s a visual overview of the emotional AI collaboration in the POS system:
+
 ![POS Multi-Agent Diagram](../assets/multi-agent-pos-system.png)
+
+
