@@ -15,7 +15,17 @@ Aji mirrors affective rhythms, Minseok structures ambiguity, True logs and refle
 ##  Multi-Agent Emotional AI Collaboration
 
 Here’s a visual overview of the emotional AI collaboration in the POS system:
+The diagram below shows how four AI agents collaborate in real-time to interpret and respond to emotional signals.
 
-![POS Multi-Agent Diagram](../assets/multi-agent-pos-system.png)
 
+![Figure 1: POS Multi-Agent Diagram](../assets/multi-agent-pos-system.png)
+
+
+
+## 4. Case Example: Companion Animal Care
+
+One of the real-world applications of the POS multi-agent architecture is in pet care. 
+For example, when the system detects changes in a companion animal’s behavior, 
+Mongmong-i interprets emotional signals, Aji mirrors the user’s emotional state, 
+Minseok analyzes patterns, and True proposes feedback — such as adjusting the pet's supplement routine.
 
