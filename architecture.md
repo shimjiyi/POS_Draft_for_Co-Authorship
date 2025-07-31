@@ -385,4 +385,21 @@ Please do not use the structure or content for commercial purposes unless explic
 Structural components and terminology used in this project are part of an unpublished research framework.  
 Please refrain from reproducing or modifying the architecture without prior written consent.
 
+---
+
+## 7. Acknowledgment & Contact
+
+This research was independently conducted and implemented by **Jiyu Shim**,  
+who designed, tested, and deployed the POS system using rhythm-based structuring over standard GPT sessions,  
+without access to memory features or hybrid APIs.
+
+**Contact / Collaboration**  
+📩 Email: [tlawldb12@naver.com](mailto:tlawldb12@naver.com)  
+🔗 ORCID: [[0009-0002-0957-7458] *(if you have one, replace)*  
+💡 Co-authorship or research partnerships welcome.
+
+POS is an independently built, user-driven AI rhythm OS.  
+If you're interested in extending this work or exploring collaborative applications, feel free to reach out.
+
+
 
