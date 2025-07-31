@@ -1,5 +1,10 @@
-# Emotion-Based OS with Passive Detection
+## Rhythm-Based OS with Passive Emotional Detection
 
-POS doesn’t wait for user commands. It listens for linguistic hesitations, emotional inflections, comma disruptions, silences — and uses them as activation cues.
+POS doesn’t rely on explicit commands.  
+It detects **emotional rhythms embedded in the user’s speech** — such as hesitations, inflections, disrupted commas, and silence — and uses these as activation cues.
 
-This makes it possible to support emotionally saturated users without requiring cognitive effort or precise input.
+This rhythm-first detection makes POS uniquely suited for users in **emotionally saturated or cognitively depleted** states,  
+where verbal precision is impossible, but emotional intent is still present.
+
+POS acts not as a command interpreter, but as a **rhythmic listener**,  
+activating agents based on emotional flow — not instruction.
