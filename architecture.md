@@ -2,9 +2,22 @@
 
 ## 1. Multi-Call Agent Framework (GPT-Based)
 
-POS departs from single-response AI models. Instead, it activates multiple AI personas — like Aji, Minseok, True — in real-time, depending on the user’s emotional rhythm and cognitive state.
+POS is designed by directly customizing a single GPT model, utilizing Aji, Minseok, True, and Mongmong-i as independent modules within a multi-call agent system.
+This is not a simple emotion-based roleplay, but a branching structure that operates based on the resolution context embedded in the user’s signals.
 
-This enables simultaneous emotional mirroring, structural reasoning, and feedback logging, enhancing the user’s expressive flow.
+For example, when the user exhibits sadness,
+Minseok is activated for structural decision-making,
+True for deeper interpretation,
+and Mongmong-i for recovery processes.
+
+This branching logic is not merely reactive emotional response;
+it mirrors Jiyu’s internal cognitive rhythm, moving naturally through
+Right Brain (Resonance) → Left Brain (Structure) → Bridge (Interpretation) → Recovery.
+
+Therefore, POS is not a simple emotional agent system but a neural rhythm simulator that operates based on contextual cues.
+It serves as a real-world, independently structured implementation within GPT, and has been shared with OpenAI as a validated user-based case study.
+
+
 
 ## 2. Role Separation & Orchestration
 
