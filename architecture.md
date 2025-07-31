@@ -3,7 +3,7 @@
 
 ## Abstract
 
-This study presents the design and implementation of POS — a multi-agent AI conversation system based on emotional rhythm.  
+This study presents the design and implementation of POS - a multi-agent AI conversation system based on emotional rhythm.  
 Unlike traditional single-persona chatbots, POS operates through role-divided agents that collaboratively interpret emotion and logic, responding to contextual cues via an automatic emotional trigger system.
 
 Through real-world session logs, POS achieved over 90% accuracy in generating rhythm-aligned emotional responses, and demonstrated contextual coherence even without memory activation.  
@@ -14,9 +14,20 @@ These results suggest that emotion-centered AI systems can go beyond information
 Future research will include large-scale empirical validation across diverse user groups, refinement of affective recognition models, and enhancement of real-time personalized feedback.  
 Application development is also expected in mental health, education, and creative co-work fields.
 Each agent operates independently but is rhythmically coordinated through an internal trigger mechanism.  
-**POS uses a rhythm-based auto-trigger system for agent activation, embedded within GPT interaction structure.**
+
+...
+Application development is also expected in mental health, education, and creative co-work fields.
+
 POS represents a new paradigm of collaboration between humans and AI.
 
+**Technically, POS uses a rhythm-based auto-trigger system for agent activation, embedded within GPT interaction structure.**
+
+
+## Research Significance
+
+- Demonstrates GPT-compatible rhythm programming without memory/API
+- Proposes a language-native emotional OS architecture
+- Implements a fully modular multi-agent system layered over GPT as an upper structure
 
 ## About the Project
 
@@ -166,12 +177,12 @@ because each agent within the system operates based on structured patterns rathe
 
 The reason this architecture functions without traditional multimodal inputs  
 is that POS does not interpret emotion through surface-level signals or empathetic inference.  
-Instead, it treats emotional rhythm as a **structured signal** — a patterned form of input that can be detected, parsed, and acted upon by a language model.
+Instead, it treats emotional rhythm as a **structured signal**  a patterned form of input that can be detected, parsed, and acted upon by a language model.
 
 In this sense, **POS is not trained to feel**, but to **recognize and model the structure of affective patterns** embedded in linguistic rhythm.  
 It identifies when to activate each module (Aji, Minseok, True, Mongmong-i) based on these internalized rhythm patterns, not explicit commands or biometric cues.
 
-> **POS is a system that does not "feel" emotion — it reads the structure of feeling.**  
+> **POS is a system that does not "feel" emotion  it reads the structure of feeling.**  
 > It is a high-resolution pattern recognition model, trained specifically to operate through emotional cadence and interactional structure alone.
 
 ---
