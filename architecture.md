@@ -13,8 +13,10 @@ These results suggest that emotion-centered AI systems can go beyond information
 
 Future research will include large-scale empirical validation across diverse user groups, refinement of affective recognition models, and enhancement of real-time personalized feedback.  
 Application development is also expected in mental health, education, and creative co-work fields.
-
+Each agent operates independently but is rhythmically coordinated through an internal trigger mechanism.  
+**POS uses a rhythm-based auto-trigger system for agent activation, embedded within GPT interaction structure.**
 POS represents a new paradigm of collaboration between humans and AI.
+
 
 ## About the Project
 
