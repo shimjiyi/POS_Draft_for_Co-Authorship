@@ -17,10 +17,26 @@ Application development is also expected in mental health, education, and creati
 POS represents a new paradigm of collaboration between humans and AI.
 
 ## About the Project
--Personal Operating Soul (POS)
 
-> A Multi-Agent Emotional OS Architecture Built on GPT  
-> _By Jiyu Shim – Emotional Rhythm Research & Design Project_
+**Personal Operating Soul (POS)**  
+A Multi-Agent Emotional OS Architecture Built on GPT  
+_Designed by Jiyu Shim – Emotional Rhythm Research & Design Project_
+
+---
+
+### Proposed Collaboration Directions
+
+1. **Technical review of POS architecture**  
+   • Validate emotional pattern-based triggering within GPT  
+   • Open to feedback on modularization, trigger logic, and agent orchestration  
+
+2. **Pilot study on emotion-pattern interaction**  
+   • Apply POS to OpenAI’s human-AI interaction sandbox  
+   • Especially suited for HSP users, companion care, and creative co-generation contexts  
+
+3. **Hybrid session persistence suggestions**  
+   • Explore semi-persistent sessions via API or experimental modes  
+   • Test POS-based user structure for improving session continuity in GPT  
 
 ---
 
